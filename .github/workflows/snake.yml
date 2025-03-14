@@ -4,7 +4,7 @@ on:
   # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
-  
+
   # allows to manually run the job at any time
   workflow_dispatch:
   
@@ -12,8 +12,6 @@ on:
   push:
     branches:
     - master
-    
-  
 
 jobs:
   generate:
@@ -25,7 +23,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: oculo0204
-          snake_color: 'blue' 
+          snake_color: '#016DAE'
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
