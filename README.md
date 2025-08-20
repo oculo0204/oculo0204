@@ -1,5 +1,6 @@
 <p align="center">
-![snake animation](https://github.com/oculo0204/oculo0204/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://raw.githubusercontent.com/oculo0204/oculo0204/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 
