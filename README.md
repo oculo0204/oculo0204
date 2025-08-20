@@ -32,8 +32,7 @@
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
@@ -89,14 +88,16 @@
 - 사용자 맞춤 경로 기록 및 지도 시각화
 
 ### 6. 냉부해 
-- 주: <NEORDINARY Hackathon>
-- 사용자 맞춤 경로 기록 및 지도 시각화
+- 주: NEORDINARY Hackathon
 
 ### 7. FlexyTale
-- 사용자 맞춤 경로 기록 및 지도 시각화
+- 주: 성신여자대학교
 
 ### 8. JAVACOOKIE
-- 사용자 맞춤 경로 기록 및 지도 시각화
+- 주: 성신여자대학교
+
+### 9. 멋쟁이 사자처럼 플젝
+- 주: 멋쟁이 사자처럼 12기
 
 
 ---
