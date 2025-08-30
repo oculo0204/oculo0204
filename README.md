@@ -58,7 +58,7 @@
 
 </details>
 
-<a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-right:20px;">
+- <a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-right:20px;">
   <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -84,7 +84,7 @@
 
 </details>
 
-<a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-right:20px;">
+- <a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-right:20px;">
   <img src="https://img.shields.io/badge/희소식-DRACONIST-FFEB3B?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
