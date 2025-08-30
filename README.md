@@ -1,6 +1,4 @@
 # 🍋 애스터 / 장서원 2025 PORTFOLIO
-> when life gives you lemons, make lemonade  
-> 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
 <p align="center">
   <!-- Version Control & Collaboration -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
@@ -27,7 +25,8 @@
   <img src="https://img.shields.io/badge/AI%20Fine--Tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
 </p>
-
+> when life gives you lemons, make lemonade  
+> 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
 
 ---
 
