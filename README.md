@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
 </p>
 
-- **성신여자대학교 컴퓨터공학과**, 4학년 재학
 
 ---
 
@@ -135,3 +134,4 @@
 
 ## 📄 Certificates
 - TOEIC 900, TOEFL 76
+- **성신여자대학교 컴퓨터공학과**, 4학년 재학
