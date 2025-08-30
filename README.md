@@ -43,6 +43,7 @@
 ### 💻 Backend Projects
 <details>
 <summary>링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) </br> 
+[![링큐 (UMC_8th_LINKU)](https://img.shields.io/badge/링큐-UMC_8th_LINKU-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinkYou-2025/LinkU_backend)
 </summary>
 
 - **귀찮은 자료 저장을 한번에**  
@@ -58,7 +59,7 @@
 
 </details>
 
-[![링큐 (UMC_8th_LINKU)](https://img.shields.io/badge/링큐-UMC_8th_LINKU-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinkYou-2025/LinkU_backend)
+
   
 <details>
 <summary>희소식 – 긍정뉴스 모음 (Spring Boot)
