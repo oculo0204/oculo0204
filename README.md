@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/AI%20Fine--Tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
 </p>
----
+
 
 ## 💎 Development Experience
 - 2022 성신여대 소프트웨어 경진대회 은상 – `<flexy tale>`  
@@ -38,9 +38,6 @@
 - 2025 Draconist 소모임 운영 → [사이트](https://draconist.clickn.co.kr/)  
 - 2025 지도기반 나만의 걷는 길 공유 서비스 `<Geotdam>` 팀장  
 - 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장  
-
----
-
 
 
 ## 🌟 주요 프로젝트
@@ -121,15 +118,11 @@
 
 
 
-
----
-
 ## 🏆 Awards & Activities
 - 2024 WISET 글로벌 멘토링 올해의 멘티상  
 - 2024 성신글로벌프렌즈 튜터링 프로그램  
 - 2024 잠실 청소년 센터 번역단 멘토  
 
----
 
 ## 📄 Certificates
 - TOEIC 900, TOEFL 76
