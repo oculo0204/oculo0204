@@ -2,9 +2,8 @@
 > when life gives you lemons, make lemonade  
 > 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
 <p align="center">
+  <img src="https://raw.githubusercontent.com/oculo0204/oculo0204/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-![Mazandi Profile](http://mazandi.herokuapp.com/api?handle={oculo0204}&theme=cold)
-## 🎓 Education
 - **성신여자대학교 컴퓨터공학과**, 4학년 재학
 
 ---
@@ -69,7 +68,7 @@
 
 </details>
 
-- [링큐(UMC_8th_LINKU)](https://github.com/LinkYou-2025/LinkU_backend)
+- [링큐 (UMC_8th_LINKU)](https://github.com/LinkYou-2025/LinkU_backend)
 
   
 <details>
@@ -91,7 +90,7 @@
 
 </details>
 
-- [희소식(DRACONIST)](https://github.com/Good-LuckyNews/BE)
+- [희소식 (DRACONIST)](https://github.com/Good-LuckyNews/BE)
 
 
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
