@@ -69,7 +69,7 @@
 
 </details>
 
-- [링큐<UMC_8th_LINKU>](https://github.com/LinkYou-2025/LinkU_backend)
+- [링큐(UMC_8th_LINKU)](https://github.com/LinkYou-2025/LinkU_backend)
 
   
 <details>
@@ -91,7 +91,7 @@
 
 </details>
 
-- [희소식<DRACONIST>](https://github.com/Good-LuckyNews/BE)
+- [희소식 (DRACONIST)(https://github.com/Good-LuckyNews/BE)
 
 
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
