@@ -69,8 +69,7 @@
 
 </details>
 
-- 주: UMC_8th_LINKU
-- GitHub: [Repo](https://github.com/LinkYou-2025/LinkU_backend)
+- GitHub: [UMC_8th_LINKU-링큐](https://github.com/LinkYou-2025/LinkU_backend)
 
   
 <details>
@@ -91,8 +90,9 @@
   검색 기능: 긍정 피드와 희소식에서 키워드별 검색 및 최근 검색어 관리
 
 </details>
-- 주: Draconist 
-- GitHub: [Repo](https://github.com/Good-LuckyNews/BE)
+
+- GitHub: [Draconist-희소식](https://github.com/Good-LuckyNews/BE)
+
 
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
 - 주: Draconist
