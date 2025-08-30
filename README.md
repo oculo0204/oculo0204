@@ -52,9 +52,11 @@
 
 ## 🌟 주요 프로젝트
 
-### 1. 링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot)
-- 주: UMC_8th_LINKU
+<details>
+<summary>1. 링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot)  
+- 주: UMC_8th_LINKU  
 - GitHub: [Repo](https://github.com/LinkYou-2025/LinkU_backend)
+</summary>
 
 - **귀찮은 자료 저장을 한번에**  
   사용자는 한 번의 클릭으로 링크를 저장하면, AI가 자동으로 폴더를 분류해줍니다. (OpenAI API 활용)
@@ -67,10 +69,13 @@
 - **월간 인기 링크 및 AI 추천 링크 제공**  
   (Perplexity API 활용)
 
+</details>
 
-### 2. 희소식 – 긍정뉴스 모음 (Spring Boot)
-- 주: Draconist
+<details>
+<summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)  
+- 주: Draconist  
 - GitHub: [Repo](https://github.com/Good-LuckyNews/BE)
+</summary>
 
 - **맞춤형 긍정 뉴스 피드 & 스크랩**  
   사용자가 선택한 긍정 키워드 기반 뉴스 추천 및 평가, 스크랩 기능 제공
@@ -84,6 +89,8 @@
 - **추가 기능**  
   푸시 알림: 사용자가 뉴스를 자주 보는 시간대에 긍정 뉴스 제공  
   검색 기능: 긍정 피드와 희소식에서 키워드별 검색 및 최근 검색어 관리
+
+</details>
 
 
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
