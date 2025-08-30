@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/AI%20Fine--Tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
 </p>
-
-
 ---
 
 ## 💎 Development Experience
