@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/AI%20Fine--Tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
 </p>
-
+</br>
 
 ## 💎 Development Experience
 - 2022 성신여대 소프트웨어 경진대회 은상 – `<flexy tale>`  
@@ -37,7 +37,7 @@
 - 2025 Draconist 소모임 운영 → [사이트](https://draconist.clickn.co.kr/)  
 - 2025 지도기반 나만의 걷는 길 공유 서비스 `<Geotdam>` 팀장  
 - 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장  
-
+</br>
 
 ## 🌟 주요 프로젝트
 ### 💻 Backend Projects
