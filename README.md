@@ -58,9 +58,11 @@
 
 </details>
 
-<a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-left:20px;">
-  <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7e92645c-c528-42fa-a393-73c301b2bf28" 
+       width="1920" height="1400" alt="표지" />
 </a>
+
 
 
 
