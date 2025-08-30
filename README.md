@@ -42,7 +42,9 @@
 ## 🌟 주요 프로젝트
 ### 💻 Backend Projects
 <details>
-<summary>링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) </br> 
+<summary>링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) <a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-right:20px;">
+  <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </summary>
 
 - **귀찮은 자료 저장을 한번에**  
@@ -58,15 +60,15 @@
 
 </details>
 
-<a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-right:20px;">
-  <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 
 
 
   
 <details>
-<summary>희소식 – 긍정뉴스 모음 (Spring Boot)
+<summary>희소식 – 긍정뉴스 모음 (Spring Boot) <a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-right:20px;">
+  <img src="https://img.shields.io/badge/희소식-DRACONIST-FFEB3B?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 </summary>
 
 - **맞춤형 긍정 뉴스 피드 & 스크랩**  
@@ -84,9 +86,7 @@
 
 </details>
 
-<a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-right:20px;">
-  <img src="https://img.shields.io/badge/희소식-DRACONIST-FFEB3B?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+
 
 ### 5. Geotdam – 지도 기반 걷기 공유 서비스
 - 주: 성신여자대학교
