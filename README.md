@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/oculo0204/oculo0204/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
+![Mazandi Profile](http://mazandi.herokuapp.com/api?handle={여기에_아이디}&theme=cold)
 ## 🎓 Education
 - **성신여자대학교 컴퓨터공학과**, 4학년 재학
 
