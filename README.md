@@ -50,7 +50,7 @@
 
 
 ## 🌟 주요 프로젝트
-
+### 💻 Backend Projects
 <details>
 <summary>링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) </br> 
 </summary>
@@ -92,14 +92,10 @@
 
 - [희소식 (DRACONIST)](https://github.com/Good-LuckyNews/BE)
 
-
+### 💻 frontend Projects
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
 - 주: Draconist
 - 지도 기반 여행 경로 추천 및 공유
-
-### 4. PuppySense – 강아지 동영상 표정인식
-- 주: 성신여자대학교
-- TensorFlow, BlazeFace 활용, 동영상 프레임 추출 및 얼굴 인식
 
 ### 5. Geotdam – 지도 기반 걷기 공유 서비스
 - 주: 성신여자대학교
@@ -111,11 +107,21 @@
 ### 7. FlexyTale
 - 주: 성신여자대학교
 
+### 9. 멋쟁이 사자처럼 플젝
+- 주: 멋쟁이 사자처럼 12기
+
+
+### 💻 AI Projects
+### 4. PuppySense – 강아지 동영상 표정인식
+- 주: 성신여자대학교
+- TensorFlow, BlazeFace 활용, 동영상 프레임 추출 및 얼굴 인식
+
+### 💻 ETC Projects
+
 ### 8. JAVACOOKIE
 - 주: 성신여자대학교
 
-### 9. 멋쟁이 사자처럼 플젝
-- 주: 멋쟁이 사자처럼 12기
+
 
 
 ---
