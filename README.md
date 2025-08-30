@@ -53,8 +53,8 @@
 ## 🌟 주요 프로젝트
 
 <details>
-<summary>1. 링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot)  
-- 주: UMC_8th_LINKU  
+<summary>1. 링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) </br> 
+- 주: UMC_8th_LINKU   </br>
 - GitHub: [Repo](https://github.com/LinkYou-2025/LinkU_backend)
 </summary>
 
@@ -73,8 +73,8 @@
 
 <details>
 <summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)  
-- 주: Draconist  
-- GitHub: [Repo](https://github.com/Good-LuckyNews/BE)
+- 주: Draconist   </br>
+- GitHub: [Repo](https://github.com/Good-LuckyNews/BE) </br>
 </summary>
 
 - **맞춤형 긍정 뉴스 피드 & 스크랩**  
