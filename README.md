@@ -1,11 +1,9 @@
 # 🍋 애스터 / 장서원 2025 PORTFOLIO
-
+> when life gives you lemons, make lemonade  
+> 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
 <p align="center">
   <img src="https://raw.githubusercontent.com/oculo0204/oculo0204/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> when life gives you lemons, make lemonade  
-> 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
 
 ## 🎓 Education
 - **성신여자대학교 컴퓨터공학과**, 4학년 재학
