@@ -67,7 +67,7 @@
 <a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-left:20px;">
   <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</br></br>
+</br></br></br>
   
 <details>
 <summary>희소식 – 긍정뉴스 모음 (Spring Boot)
