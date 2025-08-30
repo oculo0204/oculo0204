@@ -42,9 +42,12 @@
 ## 🌟 주요 프로젝트
 ### 💻 Backend Projects
 <details>
-<summary>링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) <a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-right:20px; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 8px;" />
-</a>
+<summary>링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) <p align="left">
+  <a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank" style="margin-right:20px;">
+    <img src="https://img.shields.io/badge/링큐-UMC_8th_LINKU-CE93D8?style=for-the-badge&logo=github&logoColor=white" 
+         style="border-radius: 12px; vertical-align: middle;" />
+  </a>
+</p>
 </summary>
 
 - **귀찮은 자료 저장을 한번에**  
@@ -66,9 +69,12 @@
 
   
 <details>
-<summary>희소식 – 긍정뉴스 모음 (Spring Boot) <a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-right:20px; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/희소식-DRACONIST-FFEB3B?style=for-the-badge&logo=github&logoColor=black" style="border-radius: 8px;" />
-</a>
+<summary>희소식 – 긍정뉴스 모음 (Spring Boot) <p>
+    <a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-right:20px;">
+    <img src="https://img.shields.io/badge/희소식-DRACONIST-FFEB3B?style=for-the-badge&logo=github&logoColor=black" 
+         style="border-radius: 12px; vertical-align: middle;" />
+  </a>
+</p>
 </summary>
 
 - **맞춤형 긍정 뉴스 피드 & 스크랩**  
