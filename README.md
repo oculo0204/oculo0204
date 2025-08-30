@@ -57,8 +57,8 @@
   (Perplexity API 활용)
 
 </details>
-[![링큐 (UMC_8th_LINKU)](https://img.shields.io/badge/링큐-UMC_8th_LINKU-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinkYou-2025/LinkU_backend)
 
+[![링큐 (UMC_8th_LINKU)](https://img.shields.io/badge/링큐-UMC_8th_LINKU-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinkYou-2025/LinkU_backend)
   
 <details>
 <summary>희소식 – 긍정뉴스 모음 (Spring Boot)
