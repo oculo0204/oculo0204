@@ -58,8 +58,7 @@
 
 </details>
 
-- [링큐 (UMC_8th_LINKU)](https://github.com/LinkYou-2025/LinkU_backend)
-
+[![링큐 (UMC_8th_LINKU)](https://img.shields.io/badge/링큐-UMC_8th_LINKU-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinkYou-2025/LinkU_backend)
   
 <details>
 <summary>희소식 – 긍정뉴스 모음 (Spring Boot)
@@ -80,7 +79,7 @@
 
 </details>
 
-- [희소식 (DRACONIST)](https://github.com/Good-LuckyNews/BE)
+[![희소식 (DRACONIST)](https://img.shields.io/badge/희소식-DRACONIST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Good-LuckyNews/BE)
 
 ### 5. Geotdam – 지도 기반 걷기 공유 서비스
 - 주: 성신여자대학교
