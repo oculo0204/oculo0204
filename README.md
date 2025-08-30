@@ -72,9 +72,9 @@
 </details>
 
 <details>
-<summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)  
+<summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)   </br>
 - 주: Draconist   </br>
-- GitHub: [Repo](https://github.com/Good-LuckyNews/BE) </br>
+- GitHub: [Repo](https://github.com/Good-LuckyNews/BE)
 </summary>
 
 - **맞춤형 긍정 뉴스 피드 & 스크랩**  
