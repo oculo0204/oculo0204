@@ -1,24 +1,6 @@
 # 🍋 애스터 / 장서원 2025 PORTFOLIO
 > when life gives you lemons, make lemonade  
 > 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oculo0204/oculo0204/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-- **성신여자대학교 컴퓨터공학과**, 4학년 재학
-
----
-
-## 💎 Development Experience
-- 2022 성신여대 소프트웨어 경진대회 은상 – `<flexy tale>`  
-- 2024 멋쟁이 사자처럼 프론트엔드 12기  
-- 2024 코드잇 부스트 백엔드 데모데이 3등  
-- 2024 JavaSwing 게임 `<JAVACOOKIE>` 팀장  
-- 2025 Draconist 소모임 운영 → [사이트](https://draconist.clickn.co.kr/)  
-- 2025 지도기반 나만의 걷는 길 공유 서비스 `<Geotdam>` 팀장  
-- 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장  
-
----
-
 ## 👩💻 Tech Stack
 
 <p align="center">
@@ -47,6 +29,22 @@
   <img src="https://img.shields.io/badge/AI%20Fine--Tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
 </p>
+
+- **성신여자대학교 컴퓨터공학과**, 4학년 재학
+
+---
+
+## 💎 Development Experience
+- 2022 성신여대 소프트웨어 경진대회 은상 – `<flexy tale>`  
+- 2024 멋쟁이 사자처럼 프론트엔드 12기  
+- 2024 코드잇 부스트 백엔드 데모데이 3등  
+- 2024 JavaSwing 게임 `<JAVACOOKIE>` 팀장  
+- 2025 Draconist 소모임 운영 → [사이트](https://draconist.clickn.co.kr/)  
+- 2025 지도기반 나만의 걷는 길 공유 서비스 `<Geotdam>` 팀장  
+- 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장  
+
+---
+
 
 
 ## 🌟 주요 프로젝트
