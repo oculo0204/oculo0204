@@ -92,14 +92,18 @@
 
 - [희소식 (DRACONIST)](https://github.com/Good-LuckyNews/BE)
 
+### 5. Geotdam – 지도 기반 걷기 공유 서비스
+- 주: 성신여자대학교
+- 사용자 맞춤 경로 기록 및 지도 시각화
+
+***
+
+
 ### 💻 frontend Projects
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
 - 주: Draconist
 - 지도 기반 여행 경로 추천 및 공유
 
-### 5. Geotdam – 지도 기반 걷기 공유 서비스
-- 주: 성신여자대학교
-- 사용자 맞춤 경로 기록 및 지도 시각화
 
 ### 6. 냉부해 
 - 주: NEORDINARY Hackathon
@@ -109,7 +113,7 @@
 
 ### 9. 멋쟁이 사자처럼 플젝
 - 주: 멋쟁이 사자처럼 12기
-
+***
 
 ### 💻 AI Projects
 ### 4. PuppySense – 강아지 동영상 표정인식
