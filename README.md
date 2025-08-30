@@ -111,6 +111,3 @@
 
 ## 📄 Certificates
 - TOEIC 900, TOEFL 76
-[공인어학성적표.pdf]
-
-[TOEFL Score Report]
