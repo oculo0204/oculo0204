@@ -54,8 +54,6 @@
 
 <details>
 <summary>1. 링큐 - 귀찮은 자료 저장을 한번에. (Spring Boot) </br> 
-- 주: UMC_8th_LINKU   </br>
-- GitHub: [Repo](https://github.com/LinkYou-2025/LinkU_backend)
 </summary>
 
 - **귀찮은 자료 저장을 한번에**  
@@ -70,11 +68,10 @@
   (Perplexity API 활용)
 
 </details>
-
+- 주: UMC_8th_LINKU
+- GitHub: [Repo](https://github.com/LinkYou-2025/LinkU_backend)
 <details>
-<summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)   </br>
-- 주: Draconist   </br>
-- GitHub: [Repo](https://github.com/Good-LuckyNews/BE)
+<summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)
 </summary>
 
 - **맞춤형 긍정 뉴스 피드 & 스크랩**  
@@ -91,7 +88,8 @@
   검색 기능: 긍정 피드와 희소식에서 키워드별 검색 및 최근 검색어 관리
 
 </details>
-
+- 주: Draconist 
+- GitHub: [Repo](https://github.com/Good-LuckyNews/BE)
 
 ### 3. 당장가자 – 여행 공유 앱 (React Native)
 - 주: Draconist
