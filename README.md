@@ -68,8 +68,11 @@
   (Perplexity API 활용)
 
 </details>
+
 - 주: UMC_8th_LINKU
 - GitHub: [Repo](https://github.com/LinkYou-2025/LinkU_backend)
+
+  
 <details>
 <summary>2. 희소식 – 긍정뉴스 모음 (Spring Boot)
 </summary>
