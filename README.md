@@ -1,6 +1,8 @@
 # 🍋 애스터 / 장서원 2025 PORTFOLIO
 > when life gives you lemons, make lemonade  
 > 어려운 일이 있더라도 긍정적인 마음으로 이겨내라는 의미를 담고 있습니다.
+
+
 <p align="center">
   <!-- Version Control & Collaboration -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
@@ -207,3 +209,14 @@
 - 멋쟁이 사자처럼 12기 frontend 수료
 - 코드잇 부스트 백엔드 1기 수료
 
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/seowonroaring02/" target="_blank">
+<img width="50" height="50" alt="png-clipart-blue-and-white-in-logo-social-media-computer-icons-linkedin-linkedin-social-icon-miscellaneous-blue-thumbnail" src="https://github.com/user-attachments/assets/680cee8a-1793-46df-beec-c6b9edd466aa" />
+
+  </a>
+  <a href="https://turtle0204.tistory.com/" target="_blank">
+    <img width="50" height="50" alt="티스토리(TISTORY)_로고_아이콘" src="https://github.com/user-attachments/assets/f70f621d-cb39-420b-9e65-64fbf7535146" />
+
+  </a>
+</p>
