@@ -36,7 +36,8 @@
 - 2024 JavaSwing 게임 `<JAVACOOKIE>` 팀장  
 - 2025 Draconist 소모임 운영 → [사이트](https://draconist.clickn.co.kr/)  
 - 2025 지도기반 나만의 걷는 길 공유 서비스 `<Geotdam>` 팀장  
-- 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장  
+- 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장
+- 2025 링크 저장 및 추천 서비스 `<LinkU>` 백엔드 파트장장
 </br>
 
 ## 🌟 대표 프로젝트
@@ -134,9 +135,30 @@
 
 
 ### 💻 frontend Projects
-### 3. 당장가자 – 여행 공유 앱 (React Native)
-- 주: Draconist
-- 지도 기반 여행 경로 추천 및 공유
+<details>
+<summary>걷담</summary>
+<a href="https://github.com/geotdam/geotdam-server" target="_blank">
+  <img src="https://img.shields.io/badge/걷담-BE-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/geotdam/geotdam-frontend" target="_blank">
+  <img src="https://img.shields.io/badge/걷담-FE-81C784?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</details>
+</br></br></br>
+<details>
+<summary> pairmate (React Native)</summary>
+<a href="https://github.com/PairMate/frontPairMate" target="_blank">
+  <img src="https://img.shields.io/badge/PairMate-frontend-1976D2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</details>
+</br></br></br>
+<details>
+<summary>당장가자 – 여행 공유 앱 (React Native)</summary>
+
+</details>
 
 
 ### 💻 AI Projects
@@ -181,3 +203,7 @@
 ## 📄 Certificates
 - TOEIC 900, TOEFL 76
 - **성신여자대학교 컴퓨터공학과**, 4학년 재학
+- UMC 8기 spring boot 수료
+- 멋쟁이 사자처럼 12기 frontend 수료
+- 코드잇 부스트 백엔드 1기 수료
+
