@@ -120,7 +120,7 @@
   
 </a>
 <a href="https://github.com/FitLink-project/FitLink-BE" target="_blank" style="margin-left:20px;">
-  <img width="1920" height="1080" alt="cover" src="https://github.com/user-attachments/assets/17722f47-1440-4b05-84c6-0c5fc7998d8e" />
+  <img src="https://img.shields.io/badge/FitLink-DRACONIST-3C7DFF?style=for-the-badge&logo=github&logoColor=white" />
 
 </a>
 <a href="https://github.com/FitLink-project/FitLink-AI" target="_blank" style="margin-left:20px;">
