@@ -87,17 +87,48 @@
   긍정 피드와 희소식에서 키워드와 제목을 기반으로 검색이 가능합니다.
   
 </details>
+<a href="https://www.instagram.com/reel/DOYuE8MiPfe/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">
+  <img width="2988" height="1681" alt="표지" src="https://github.com/user-attachments/assets/2d47b675-22e9-49d8-a2eb-4f3c1a1d88db" />
 
+</a>
 <a href="https://github.com/Good-LuckyNews/BE" target="_blank" style="margin-left:20px;">
   <img src="https://img.shields.io/badge/희소식-DRACONIST-FFEB3B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+  </br>
+    </br>
+  </br>
 <details>
-  </br></br>
-<summary> Geotdam – 지도 기반 걷기 공유 서비스 </summary>
-- 주: 성신여자대학교
-- 사용자 맞춤 경로 기록 및 지도 시각화
+<summary>FitLink – 맞춤형 운동 추천 & 주변 운동 기회 연결 (Spring Boot)</summary>
+
+- **AI 기반 맞춤형 운동 추천 & 체력 분석**
+  사용자의 체력 진단 결과를 바탕으로 AI가 체력 수준을 분석하고, 개인에게 맞는 운동 루틴을 추천해 주는 웹 서비스입니다. 운동 추천 AI는 WEKA 프로그램을 이용해 직접 모델을 만들었습니다.
+
+- **주변 공공체육시설 및 프로그램 탐색**  
+  지도 기반 UI로 내 주변 공공체육시설과 운동 프로그램 정보를 한눈에 확인하고, 목적과 일정에 맞는 시설·프로그램을 쉽게 찾을 수 있습니다.
+  
+- **체력 리포트 & 홈트레이닝 영상 연동**  
+  근력·지구력·유연성 등 항목별 점수와 개선이 필요한 영역을 그래프 형태로 제공하고, 국민체력 100 동영상 오픈 API와 연동하여, 부족한 체력 요소별로 최적의 운동 영상을 자동 매칭·추천합니다.
+
+- **로그인, 온보딩 및 사용자 경험 설계**  
+  일반 회원가입과 카카오·구글 소셜 로그인을 지원하며, Spring Security와 JWT 기반 인증으로 확장성과 보안을 확보했습니다. 
+
 </details>
+
+<a href="https://www.instagram.com/reel/DScyT4JjMyC/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">
+<img width="1920" height="1080" alt="FitLink" src="https://github.com/user-attachments/assets/6a0ef39e-2cc2-45fb-943f-04473398b5b8" />
+
+  
+</a>
+<a href="https://github.com/FitLink-project/FitLink-BE" target="_blank" style="margin-left:20px;">
+  <img width="1920" height="1080" alt="cover" src="https://github.com/user-attachments/assets/17722f47-1440-4b05-84c6-0c5fc7998d8e" />
+
+</a>
+<a href="https://github.com/FitLink-project/FitLink-AI" target="_blank" style="margin-left:20px;">
+  <img src="https://img.shields.io/badge/FitLinkAI-DRACONIST-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</br></br></br>
+
+
 
 </br></br>
 
@@ -108,8 +139,23 @@
 - 지도 기반 여행 경로 추천 및 공유
 
 
+### 💻 AI Projects
+### 4. PuppySense – 강아지 동영상 표정인식
+- 주: 성신여자대학교
+- TensorFlow, BlazeFace 활용, 동영상 프레임 추출 및 얼굴 인식
+
+
+
+### Other Projects
+
 ### 6. 냉부해 
 - 주: NEORDINARY Hackathon
+
+<details>
+<summary> Geotdam – 지도 기반 걷기 공유 서비스 </summary>
+- 주: 성신여자대학교
+- 사용자 맞춤 경로 기록 및 지도 시각화
+</details>
 
 ### 7. FlexyTale
 - 주: 성신여자대학교
@@ -118,10 +164,6 @@
 - 주: 멋쟁이 사자처럼 12기
 </br></br>
 
-### 💻 AI Projects
-### 4. PuppySense – 강아지 동영상 표정인식
-- 주: 성신여자대학교
-- TensorFlow, BlazeFace 활용, 동영상 프레임 추출 및 얼굴 인식
 
 ### 💻 ETC Projects
 
