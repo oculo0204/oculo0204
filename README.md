@@ -68,14 +68,16 @@
 
 - **다른 사람들과 링크 공유 기능**
   기능)</br>
-  구현) </br>
+  구현)보기 권한을 부여 </br>
   어려웠던 점) </br>
-  보기 권한을 부여
+  
 
 - **사용자 맞춤 월간 큐레이션 및 AI 추천 외부 링크**  
-  구독한 사용자는 내가 지난 한달동안 관심있던 링크에 대한 AI의 큐레이션을 제공받고, 비슷한 외부 링크를 추천받을 수 있습니다.</br>
-  LinkU가 기록한 사용자의 최근 URL을 기반으로 Gemini + Google Search가 외부링크를 추천해줍니다. </br>  
-
+  기능) 구독한 사용자는 내가 지난 한달동안 관심있던 링크에 대한 AI의 큐레이션을 제공받고, 비슷한 외부 링크를 추천받을 수 있습니다.</br>
+  구현) LinkU가 기록한 사용자의 최근 URL을 기반으로 Gemini + Google Search가 외부링크 및 월별 가장 많이 열람한 링크를 추천해줍니다. </br>
+  어려웠던 점) 큐레이션에서는 외부 링크 추천 기능이 제공되는 데 이것의 정확도가 높지 않았습니다. </br>
+  이것에 대해 고민을 하던 무렵에, 5-Day AI Agents Intensive Course with Google 을 들었습니다.</br
+  수강 중 model과 tool 분리 개념을 접하였고, Perplexity 대비 OpenAI 정확도 문제를 Gemini+Google Search 조합으로 해결하며 실전 적용 성공했습니다.</br
 </details>
 
 <a href="https://github.com/LinkYou-2025/LinkU_backend" target="_blank">
