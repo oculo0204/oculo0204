@@ -36,10 +36,10 @@
 - 2024 멋쟁이 사자처럼 프론트엔드 12기  
 - 2024 코드잇 부스트 백엔드 데모데이 3등  
 - 2024 JavaSwing 게임 `<JAVACOOKIE>` 팀장  
-- 2025 Draconist 소모임 운영 → [사이트](https://draconist.clickn.co.kr/)  
+- 2025 Draconist 소모임 운영 → [인스타](https://www.instagram.com/draconist_coding_yongsa/)  
 - 2025 지도기반 나만의 걷는 길 공유 서비스 `<Geotdam>` 팀장  
 - 2025 강아지 동영상 표정인식 서비스 `<PuppySense>` 팀장
-- 2025 링크 저장 및 추천 서비스 `<LinkU>` 백엔드 파트장장
+- 2025 링크 저장 및 추천 서비스 `<LinkU>` 백엔드 파트장
 </br>
 
 ## 🌟 대표 프로젝트
