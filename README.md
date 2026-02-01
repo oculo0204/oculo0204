@@ -186,22 +186,39 @@
 ### 💻 frontend Projects
 <details>
 <summary>걷담</summary>
+
+
+- **GCP 배포 및 CI/CD 구축**   </br>​
+  기능) GitHub Actions와 GCP를 연동해 코드 변경 시 자동 테스트·배포가 가능하도록 하며, Nginx + Let's Encrypt로 HTTPS 백엔드를 안정적으로 운영했습니다. </br>
+  구현) GitHub Actions 워크플로우로 CI/CD 파이프라인을 구축하였고, Nginx 설정으로 HTTPS 적용 및 DNS를 연결했습니다. </br> </br>
+  어려웠던 점) Node.js와 Nginx 프록시, 두 곳에서 CORS 헤더 설정을 했기 때문에 CORS에러가 발생했습니다.</br>
+  브라우저 네트워크 텝에서 access-control-allow-credentials 이중 헤더 문제라는 것을 알아내었고 Nginx 에서 기존 헤더를 무시하고 새로 설정하도록 하여 해결했씁니다.</br>
+  ​
+- **실시간 위치 기반 마킹 표시 및 시각화**   </br>​​
+  기능) 사용자 실시간 위치를 WebSocket으로 받아 주변 벤치·가로등·CCTV를 OSM/국토교통 API로 조회해 지도에 마킹하며, 거리 기준 정렬과 태그 제한으로 직관적 탐색을 지원합니다. </br>
+  구현) Socket.io로 실시간 위치 수신, OSM API(3km 가로등/1km 벤치)와 CCTV API 연동 후 좌표 정제·필터링. 초록 버튼 클릭 시 소켓 연결 시작해 위치 표시 및 주소 정보 제공. </br> </br>
+  어려웠던 점) API 응답 형식 불일치와 범위 제한 로직 설계가 복잡해 자동 필터링 규칙을 반복 조정했습니다. 프론트 UX(마커 색상·요약 정보)와 연동하며 실시간 데이터 처리의 안정성을 높였습니다.</br>
+  ​
+- **장소 북마크 생성**   </br>​
+기능) 사용자가 장소에 북마크 토글(생성/삭제)을 할 수 있으며, 마이페이지에서 북마크 목록 페이징 조회 가능합니다. </br>
+구현) 중복 북마크 방지를 위해 이미 존재하는 북마크 여부를 먼저 확인하는 로직을 작성했습니다. </br> </br>
+어려웠던 점) 프론트에서 전달하는 Tmap의 placeId와 백엔드 places 테이블의 기본키 placeId가 이름 충돌을 일으켜 Path Variable에서 undefined 오류가 발생했습니다.</br>
+places 테이블에 Tmap 전용 tmapPlaceId 컬럼을 신설하고, Tmap ID로 장소가 없으면 새로 생성·매핑하는 동적 처리 로직을 구현했습니다.</br>
+​
+</details>
 <a href="https://github.com/geotdam/geotdam-server" target="_blank">
   <img src="https://img.shields.io/badge/걷담-BE-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://github.com/geotdam/geotdam-frontend" target="_blank">
   <img src="https://img.shields.io/badge/걷담-FE-81C784?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</details>
 </br></br></br>
 <details>
 <summary> pairmate (React Native)</summary>
 <a href="https://github.com/PairMate/frontPairMate" target="_blank">
   <img src="https://img.shields.io/badge/PairMate-frontend-1976D2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+- ****
 </details>
 </br></br></br>
 <details>
