@@ -236,6 +236,21 @@ places 테이블에 Tmap 전용 tmapPlaceId 컬럼을 신설하고, Tmap ID�
 - TensorFlow, BlazeFace 활용, 동영상 프레임 추출 및 얼굴 인식
 
 </details>
+<a href="https://youtu.be/L4zlu8Gg978" target="_blank">
+  <img width="1572" height="851" alt="image" src="https://github.com/user-attachments/assets/3714c686-ac3a-46ad-96ec-89bc7de9fad5" />
+
+</a> </br>
+<a href="https://github.com/oculo0204/AppliedAI3" target="_blank">
+  <img src="https://img.shields.io/badge/AppliedAI3-AI학습-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/20221171/AI" target="_blank">
+  <img src="https://img.shields.io/badge/AI-프론트-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/wonee1/Puppysense_BE" target="_blank">
+  <img src="https://img.shields.io/badge/Puppysense_BE-백엔드-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </br></br></br>
 
 <details>
