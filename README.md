@@ -204,6 +204,10 @@
 places 테이블에 Tmap 전용 tmapPlaceId 컬럼을 신설하고, Tmap ID로 장소가 없으면 새로 생성·매핑하는 동적 처리 로직을 구현했습니다.</br>
 ​
 </details>
+<a href="https://youtu.be/X0oIp6JNBs0" target="_blank">
+<img width="1685" height="955" alt="image" src="https://github.com/user-attachments/assets/25ec06cf-ac6b-48cf-8dfe-31aa92d7fae4" />
+
+</a> </br>
 <a href="https://github.com/geotdam/geotdam-server" target="_blank">
   <img src="https://img.shields.io/badge/걷담-BE-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </a>
