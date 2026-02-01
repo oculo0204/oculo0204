@@ -183,11 +183,9 @@
 </br></br>
 
 
-### 💻 frontend Projects
+### 💻 non-spring projects
 <details>
-<summary>걷담</summary>
-
-
+<summary>걷담-걷기 좋은 도시를 만드는 법(node.js, react)</summary>
 - **GCP 배포 및 CI/CD 구축**   </br>​
   기능) GitHub Actions와 GCP를 연동해 코드 변경 시 자동 테스트·배포가 가능하도록 하며, Nginx + Let's Encrypt로 HTTPS 백엔드를 안정적으로 운영했습니다. </br>
   구현) GitHub Actions 워크플로우로 CI/CD 파이프라인을 구축하였고, Nginx 설정으로 HTTPS 적용 및 DNS를 연결했습니다. </br> </br>
@@ -213,52 +211,55 @@ places 테이블에 Tmap 전용 tmapPlaceId 컬럼을 신설하고, Tmap ID�
   <img src="https://img.shields.io/badge/걷담-FE-81C784?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </br></br></br>
+
 <details>
-<summary> pairmate (React Native)</summary>
+<summary>당장가자 – 여행 공유 앱 (React Native)</summary>
+
+</details>
+</br></br></br>
+
+<details>
+<summary> pairmate (React, TypeScript)</summary>
 <a href="https://github.com/PairMate/frontPairMate" target="_blank">
   <img src="https://img.shields.io/badge/PairMate-frontend-1976D2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 - ****
 </details>
 </br></br></br>
+
 <details>
-<summary>당장가자 – 여행 공유 앱 (React Native)</summary>
-
-</details>
-
-
-### 💻 AI Projects
-### 4. PuppySense – 강아지 동영상 표정인식
-- 주: 성신여자대학교
+<summary>PuppySense – 강아지 동영상 표정인식 (Python, React)</summary>
 - TensorFlow, BlazeFace 활용, 동영상 프레임 추출 및 얼굴 인식
 
-
-
-### Other Projects
-
-### 6. 냉부해 
-- 주: NEORDINARY Hackathon
+</details>
+</br></br></br>
 
 <details>
-<summary> Geotdam – 지도 기반 걷기 공유 서비스 </summary>
-- 주: 성신여자대학교
-- 사용자 맞춤 경로 기록 및 지도 시각화
+<summary>별이에게 (React)</summary>
+
 </details>
-
-### 7. FlexyTale
-- 주: 성신여자대학교
-
-### 9. 멋쟁이 사자처럼 플젝
-- 주: 멋쟁이 사자처럼 12기
-</br></br>
+</br></br></br>
 
 
-### 💻 ETC Projects
 
-### 8. JAVACOOKIE
-- 주: 성신여자대학교
+### Small Projects
+<details>
+<summary>냉부해(Spring)</summary>
 
+</details>
+</br></br></br>
 
+<details>
+<summary>FlexyTale(React)</summary>
+
+</details>
+</br></br></br>
+
+<details>
+<summary>JAVACOOKIE(Java)</summary>
+
+</details>
+</br></br></br>
 
 ## 🏆 Awards & Activities
 - 2024 WISET 글로벌 멘토링 올해의 멘티상  
