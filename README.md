@@ -1,7 +1,7 @@
 # 🍋 장서원 PORTFOLIO
 > when life gives you lemons, make lemonade  
 > 어려운 일이 있더라도 긍정적인 마음으로 이겨내는 삶을 살고자 합니다.
-
+notion))https://lavish-chauffeur-986.notion.site/PORTFOLIO-115fbea19b1d803b990be0b7f766d6fc?source=copy_link
 
 <p align="left">
   <!-- Frontend -->
