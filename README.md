@@ -1,14 +1,25 @@
 # 🍋 장서원 PORTFOLIO
 > when life gives you lemons, make lemonade  
 > 어려운 일이 있더라도 긍정적인 마음으로 이겨내는 삶을 살고자 합니다.
-notion))https://lavish-chauffeur-986.notion.site/PORTFOLIO-115fbea19b1d803b990be0b7f766d6fc
+
+안녕하세요, 한양대학교 일반대학원 인공지능학과 석사과정 장서원입니다.  
+현재 빅데이터 연구실 소속으로, 데이터가 부족한 신규 도메인에서도 사용자의 선호를 정확히 예측하는 **크로스 도메인 멀티미디어 추천**을 주제로 연구하고 있습니다.  
+React, React Native, Node.js, Spring Boot 기반의 풀스택 개발자로 활동하며 `<Link:U>` , `<DOTO>` 앱을 런칭하였습니다.
+
+📒 Notion Portfolio → [바로가기](https://lavish-chauffeur-986.notion.site/PORTFOLIO-115fbea19b1d803b990be0b7f766d6fc)
 
 <p align="left">
+  <!-- AI / Research -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> -->
+
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -20,10 +31,18 @@ notion))https://lavish-chauffeur-986.notion.site/PORTFOLIO-115fbea19b1d803b990be
 </p>
 </br>
 
+## 🔬 Research
+- **한양대학교 일반대학원 인공지능학과 석사과정** (2026.09 ~ )  
+- 빅데이터 연구실 · 세부 전공: 멀티미디어 추천 시스템  
+- 관심 주제: Cross-Domain Multimedia Recommendation, Graph Neural Networks(GCN), LLM Fine-tuning
+</br>
+
 ## 💎 Main Development Experience
 - 2022 성신여대 소프트웨어 경진대회 은상 – `<flexy tale>`  
 - 2025 Spring Boot 스터디 & 프로젝트 소모임 운영 → [인스타](https://www.instagram.com/draconist_coding_yongsa/)  
-- 2025 링크 저장 및 추천 서비스 `<LinkU>` 백엔드 파트장
+- 2025 링크 저장 및 추천 서비스 `<LinkU>` 백엔드 파트장 · 서비스 런칭 → [Google Play](https://play.google.com/store/apps/details?id=com.linku)
+- 2025 AI 기반 맞춤형 운동 추천 서비스 `<FitLink>` 백엔드 · AI 모델 개발
+- 2026 `<DOTO>` 앱 런칭 → [ONE store](https://m.onestore.co.kr/v2/ko-kr/app/0001009372)
 </br>
 
 ## 🌟 대표 프로젝트
@@ -159,28 +178,32 @@ notion))https://lavish-chauffeur-986.notion.site/PORTFOLIO-115fbea19b1d803b990be
 </a>
 </br></br>
 
-## 🏆 Awards & Activities
+## 🎓 Education
+- 한양대학교 일반대학원 인공지능학과 석사과정 (2026.09 ~ 2028.08 졸업 예정)
+- 성신여자대학교 컴퓨터공학과 학사 (2021.03 ~ 2026.08 졸업)
+- University of Silesia in Katowice 교환학생 (2025.10 ~ 2026.02) · 데이터 마이닝·머신러닝·최적화 분야 수강
+
+## 🏆 Awards
 - 2024 WISET 글로벌 멘토링 올해의 멘티상  
+- 2024 코드잇 부스트 백엔드 데모데이 3등  
+- 2022 성신여대 소프트웨어 경진대회 은상
+
+## 🏆 Activities
+- 2026 UMC 10기 Node js 파트장(운영진)
+- 2025 UMC 8기 Spring Boot 수료
 - 2024 성신글로벌프렌즈 튜터링 프로그램  
 - 2024 잠실 청소년 센터 번역단 멘토
-- 2024 코드잇 부스트 백엔드 데모데이 3등  
-
+- 2024 멋쟁이 사자처럼 12기 Frontend 수료
+- 2024 코드잇 부스트 백엔드 1기 수료 
 
 ## 📄 Certificates
 - TOEIC 900, TOEFL 76
-- 성신여자대학교 컴퓨터공학과, 4학년 재학
-- UMC 8기 spring boot 수료
-- 2024 멋쟁이 사자처럼 12기 frontend 수료
-- 2024 코드잇 부스트 백엔드 1기 수료 
-
 
 <p align="right">
   <a href="https://www.linkedin.com/in/seowonroaring02/" target="_blank">
-<img width="50" height="50" alt="png-clipart-blue-and-white-in-logo-social-media-computer-icons-linkedin-linkedin-social-icon-miscellaneous-blue-thumbnail" src="https://github.com/user-attachments/assets/680cee8a-1793-46df-beec-c6b9edd466aa" />
-
+    <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/680cee8a-1793-46df-beec-c6b9edd466aa" />
   </a>
   <a href="https://turtle0204.tistory.com/" target="_blank">
-    <img width="50" height="50" alt="티스토리(TISTORY)_로고_아이콘" src="https://github.com/user-attachments/assets/f70f621d-cb39-420b-9e65-64fbf7535146" />
-
+    <img width="50" height="50" alt="Tistory" src="https://github.com/user-attachments/assets/f70f621d-cb39-420b-9e65-64fbf7535146" />
   </a>
 </p>
